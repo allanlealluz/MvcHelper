@@ -1,0 +1,11 @@
+{
+    "name": "allanlealluz/mvchelper",
+    "description": "its a simple mvc base structure",
+    "authors": [
+        {
+            "name": "allanlealluz",
+            "email": "allanlealluz@gmail.com"
+        }
+    ],
+    "require": {}
+}
