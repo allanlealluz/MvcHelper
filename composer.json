@@ -1,6 +1,7 @@
 {
     "name": "allanlealluz/mvchelper",
     "description": "its a simple mvc base structure",
+     "minimum-stability": "dev",
     "authors": [
         {
             "name": "allanlealluz",
